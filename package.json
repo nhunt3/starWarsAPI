@@ -1,0 +1,12 @@
+{
+  "name": "contacto",
+  "version": "1.0.0",
+  "description": "A command-line contact management system",
+  "preferGlobal": true,
+  "bin": "./contact.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.16.0",
+    "inquirer": "^6.0.0"
+  }
+}
